@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "name": "Airam.CF.Spiraali.14W.3000K",
+      "spectrum_file": "Airam.CF.Spiraali.14W.3000K.csv",
+      "cost": 4000.00,
+      "url": "https://rs-catalog.ru/airam.html?ysclid=mda6ag6pk5390368285",
+      "power": "14W"
+    },
+    {
+      "name": "Ledenergie.LED.Teho.T8.9W.4000K",
+      "spectrum_file": "Ledenergie.LED.Teho.T8.9W.4000K.csv",
+      "cost": 130.00,
+      "url": " https://toplivis.ru/lampa-svetodiodnaya-t8-osram-led-st8e-0-6m-9w-840-230v-800lm-matovaya-600mm-knr/?ysclid=mda79hid1n178287712",
+      "power": "150W"
+    },
+    {
+      "name": "Airam.LED.11W.4000K",
+      "spectrum_file": "Airam.LED.11W.4000K.csv",
+      "cost": 5000,
+      "url": "https://rs-catalog.ru/airam.html?ysclid=mda6ag6pk5390368285",
+      "power": "11W"
+    },
+    {
+      "name": "Airam.LED.14W.4000K",
+      "spectrum_file": "Airam.LED.14W.4000K.csv",
+      "cost": 6500,
+      "url": "https://rs-catalog.ru/airam.html?ysclid=mda6ag6pk5390368285",
+      "power": "14W"
+    },
+    {
+      "name": "Philips.FT.TLL.36W",
+      "spectrum_file": "Philips.FT.TLL.36W.csv",
+      "cost": 1200.00,
+      "url": "https://toplivis.ru/lyuminescentnaya-lampa-t8-philips-tl-d-90-graphica-36w-950-g13-1200mm/?ysclid=mda6ycdsr8787865116",
+      "power": "36W"
+    },
+    {
+      "name": "Osram.Inc.20W",
+      "spectrum_file": "Osram.Inc.20W.csv",
+      "cost": 650,
+      "url": "https://www.wildberries.ru/catalog/146340579/detail.aspx",
+      "power": "20W"
+    }
+  ]
+}
